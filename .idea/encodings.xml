@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/HbeConfig.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbEngine.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeActivity.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeAudio.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeColor.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeMusic.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeQuad.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeResourceList.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeSound.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeTexture.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeTriple.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeUtility.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/core/HbeVertex.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeAnimation.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeColorRGB.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeFont.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeHelper.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeKeyControl.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticle.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticle.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticleManager.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticleSystem.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticleSystem.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticleSystemInfo.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeParticleSystemInfo.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeRect.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeSprite.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeTouchControl.java" charset="GB2312" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/game/hummingbird/helper/HbeVector.java" charset="GB2312" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
