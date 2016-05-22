@@ -21,7 +21,7 @@ Hummingbird Engine has convenient particle systems. Developers can design partic
 
 To design a particle as shown on the mobile device:
 
-<img src="other/device_particle_running.png" alt="Particles running on Android" width="300"/>
+<img src="other/device_particle_running.png" alt="Particles running on Android" width="400"/>
 
 To achieve a particle effect as shown above, you can use HGE particle systems editor on PC. Then export the script file to be read by Hummingbird.
 
