@@ -15,3 +15,13 @@ The Hummingbird game engine has been used in the development of 2 published game
 -Kapow, a social networking game, used to trick your friends. This game shows the efficiency of the engine in drawing multiple background layouts and animations.
 
 [![Kapow](https://img.youtube.com/vi/ClTcYpVR_QQ/0.jpg)](https://youtu.be/ClTcYpVR_QQ?list=PLAkmswnok1in9Qq1BcDWr0W_9EbqbJPx8)
+
+Hummingbird Engine has convenient particle systems. Developers can design particle effects on desktop PC using existing tool. We design the particle systems to be compatible with HGE particle editor. Hummingbird Engine can read HGE particle script, then draw the same particle on mobile devices. It is pretty easy for you to design a particular effect on PC, by adjusting different parameters. Then save the script file and export it to the mobile game development.
+
+To design a particle as shown on the mobile device:
+
+<img src="other/device_particle_running.png" alt="Particles running on Android" width="300"/>
+
+You can use HGE particle editor on PC. Then export the script file to be read by Hummingbird.
+
+<img src="other/editor_particle_running.png" alt="Particle editor on PC" width="400"/>
