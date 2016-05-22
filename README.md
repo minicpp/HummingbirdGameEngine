@@ -23,6 +23,6 @@ To design a particle as shown on the mobile device:
 
 <img src="other/device_particle_running.png" alt="Particles running on Android" width="300"/>
 
-To achieve a particle effect as shown above, you can use HGE particle editor on PC. Then export the script file to be read by Hummingbird.
+To achieve a particle effect as shown above, you can use HGE particle systems editor on PC. Then export the script file to be read by Hummingbird.
 
-<img src="other/editor_particle_running.png" alt="Particle editor on PC" width="400"/>
+<img src="other/editor_particle_running.png" alt="Particle editor on PC" width="600"/>
