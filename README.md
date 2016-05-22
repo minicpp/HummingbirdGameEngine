@@ -36,4 +36,4 @@ A packaging tool is provided to easily aggregate assets. The screenshot of the p
 
 Because the package tool is developed by C# in Visual Studio long time ago, the source code has lost. However, it is not hard to do reverse engineering to get the encoding algorithm. For the file decoding algorithm, you can find it in the source file "game.hummingbird.core.HbEngine.java".
 
-![Packaging tool](other/packaging.png)
+![Packaging tool](other/packaging.PNG)
