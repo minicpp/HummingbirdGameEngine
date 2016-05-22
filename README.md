@@ -31,3 +31,9 @@ To design a particle as shown on the mobile device:
 To achieve a particle effect as shown above, you can use HGE particle systems editor on PC. Then export the script file to be read by Hummingbird.
 
 <img src="other/editor_particle_running.png" alt="Particle editor on PC" width="600"/>
+
+A packaging tool is provided to easily aggregate assets. The screenshot of the package tool is shown as below.
+
+Because the package tool is developed by C# in Visual Studio long time ago, the source code has lost. However, it is not hard to do reverse engineering to get the encoding algorithm. For the file decoding algorithm, you can find it in the source file "game.hummingbird.core.HbEngine.java".
+
+![Packaging tool](other/packaging.png)
